@@ -1,0 +1,10 @@
+﻿INSERT INTO tbl_Subcomunidades (Id_Comunidad, Nombre,Descripcion, Estado,Eliminado,Fecha_Registro)VALUES (2, 'Facultad de Educación, Ciencias de la Comunicación y Humanidades','Facultad de Educación, Ciencias de la Comunicación y Humanidades', 1,0,'2018-05-22');
+INSERT INTO tbl_Subcomunidades (Id_Comunidad, Nombre,Descripcion, Estado,Eliminado,Fecha_Registro)VALUES (2, 'Facultad de Ingeniería','Facultad de Ingeniería', 1,0,'2018-05-22');
+INSERT INTO tbl_Subcomunidades (Id_Comunidad, Nombre,Descripcion, Estado,Eliminado,Fecha_Registro)VALUES (1, 'Doctorado','Doctorado', 1,0,'2018-05-22');
+INSERT INTO tbl_Subcomunidades (Id_Comunidad, Nombre,Descripcion, Estado,Eliminado,Fecha_Registro)VALUES (1, 'Maestría','Maestría', 1,0,'2018-05-22');
+INSERT INTO tbl_Subcomunidades (Id_Comunidad, Nombre,Descripcion, Estado,Eliminado,Fecha_Registro)VALUES (2, 'Facultad de Arquitectura y Urbanismo','Facultad de Arquitectura y Urbanismo', 1,0,'2018-05-22');
+INSERT INTO tbl_Subcomunidades (Id_Comunidad, Nombre,Descripcion, Estado,Eliminado,Fecha_Registro)VALUES (2, 'Facultad de Ciencias de la Salud','Facultad de Ciencias de la Salud', 1,0,'2018-05-22');
+INSERT INTO tbl_Subcomunidades (Id_Comunidad, Nombre,Descripcion, Estado,Eliminado,Fecha_Registro)VALUES (2, 'Facultad de Ciencias Empresariales','Facultad de Ciencias Empresariales', 1,0,'2018-05-22');
+INSERT INTO tbl_Subcomunidades (Id_Comunidad, Nombre,Descripcion, Estado,Eliminado,Fecha_Registro)VALUES (2, 'Facultad de Derecho y Ciencias Políticas','Facultad de Derecho y Ciencias Políticas', 1,0,'2018-05-22');
+INSERT INTO tbl_Subcomunidades (Id_Comunidad, Nombre,Descripcion, Estado,Eliminado,Fecha_Registro)VALUES (2, 'Facultad de Educación, Ciencias de la Comunicación y Humanidades','Facultad de Educación, Ciencias de la Comunicación y Humanidades', 1,0,'2018-05-22');
+INSERT INTO tbl_Subcomunidades (Id_Comunidad, Nombre,Descripcion, Estado,Eliminado,Fecha_Registro)VALUES (2, 'Facultad de Ingeniería','Facultad de Ingeniería', 1,0,'2018-05-22');
