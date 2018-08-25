@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [NT AUTHORITY\Servicio de red]
+    FROM WINDOWS WITH DEFAULT_LANGUAGE = [Español];
+
