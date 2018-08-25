@@ -1,3 +1,14 @@
+﻿/*
+Plantilla de script posterior a la implementación							
+--------------------------------------------------------------------------------------
+ Este archivo contiene instrucciones de SQL que se anexarán al script de compilación.		
+ Use la sintaxis de SQLCMD para incluir un archivo en el script posterior a la implementación.			
+ Ejemplo:      :r .\miArchivo.sql								
+ Use la sintaxis de SQLCMD para hacer referencia a una variable en el script posterior a la implementación.		
+ Ejemplo:      :setvar TableName miTabla							
+               SELECT * FROM [$(TableName)]					
+--------------------------------------------------------------------------------------
+*/
 --REGISTROS DE LA TABLA PALABRA--
 INSERT INTO tbl_Palabra VALUES('Diques - estabilidad del talud',1,0,'2013-01-01');
 INSERT INTO tbl_Palabra VALUES('Gestión ambiental',1,0,'2013-01-01');

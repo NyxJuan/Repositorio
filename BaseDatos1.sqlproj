@@ -125,4 +125,8 @@
     <Build Include="dbo\Tables\tbl_Consulta_Trabajo.sql" />
     <None Include="Scripts\ScriptsIgnoredOnImport.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Scripts\Script.tbl_Materia.sql" />
+    <None Include="Scripts\Script.tbl_Palabra.sql" />
+  </ItemGroup>
 </Project>
