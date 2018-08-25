@@ -9,8 +9,7 @@ Plantilla de script posterior a la implementación
                SELECT * FROM [$(TableName)]					
 --------------------------------------------------------------------------------------
 */
---REGISTROS DE LA TABLA PALABRA--
-
+--REGISTROS DE LA TABLA AUTOR--
 INSERT INTO tbl_Autor VALUES('Juan Rodrigo' , 'Perez Gomez' , '1996-04-16',1,0,'2015-05-17');
 INSERT INTO tbl_Autor VALUES('rolando manuel' , 'Arias Pascal' , '1992-06-18',1,0,'2013-05-17');
 INSERT INTO tbl_Autor VALUES('Ignacio Jose' , 'Carpio Tejada' , '1994-05-30',1,0,'2012-05-17');
